@@ -1,9 +1,8 @@
 ﻿  Main.cpp
-Main.cpp(65): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-Main.cpp(76): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+Main.cpp(40): warning C4127: 条件式が定数です。
      ライブラリ F:\ドキュメント\GitHub\Flappy_Ball\Release\Flappy_Ball.lib とオブジェクト F:\ドキュメント\GitHub\Flappy_Ball\Release\Flappy_Ball.exp を作成中
   コード生成しています。
-  1 of 328 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+  0 of 305 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
