@@ -127,7 +127,6 @@ void Main()
 			}
 			P.draw(Color(0, 200, 255));
 		}
-
 		else if (flag == 0 && Difficult_Flag == 1){	//Advance
 			frame++;
 			PP += g;
@@ -219,7 +218,6 @@ void Main()
 				hitflag.clear();
 				checkhit.clear();
 				P.y = 0;
-				
 			}
 			continue;
 		}
